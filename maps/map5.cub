@@ -1,0 +1,17 @@
+
+
+
+NO ./pics/greyBrickWall2.xpm
+SO ./pics/textureStone.xpm
+WE ./pics/StoneWall.xpm
+EA ./pics/StoneBricks.xpm
+CT ./pics/woodTexture.xpm
+FT ./pics/TileBrown.xpm
+
+F 117,72,8
+           C      108 	,   	199,   204   		
+
+11111
+10S01
+10001
+11111
